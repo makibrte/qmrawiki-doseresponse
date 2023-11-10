@@ -1,0 +1,2 @@
+,Experiment Id,Exposure Route,Agent Strain,Dose Units,Host,Best Fit Model,Optimized Params k LD50/ID50,Response Type
+0,Acanth_Cornea1,eyes-cornea,Acanthamoeba Ac118,no of trophozoites,rat,exponential,"[0.000101, 6886.0]",infection
